@@ -1,4 +1,6 @@
-### Hi there 😄
-[![jojaeng2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojaeng2)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojaeng2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ds4ouj)](https://solved.ac/ds4ouj)
+Interested in  
+    
+    
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat&logo=The Algorithms&logoColor=white"/>
+ 
+
