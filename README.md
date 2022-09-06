@@ -1,5 +1,6 @@
+![image](https://user-images.githubusercontent.com/76645095/162124599-f9d701d6-e523-49c4-a6ce-193dc38f1026.png)  
 
-## Latest Blog Posting
+## Latest Posting
 
 [2022/09/04 - 9월 첫째주 일기](http://blog.naver.com/ds4ouj/222866847452) <br/>
 [2022/09/04 - [Java] Switch문 개선하기](http://blog.naver.com/ds4ouj/222866524770) <br/>
