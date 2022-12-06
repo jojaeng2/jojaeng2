@@ -1,10 +1,11 @@
-![image](https://user-images.githubusercontent.com/76645095/162124599-f9d701d6-e523-49c4-a6ce-193dc38f1026.png)
+
+markdown_text += '![image](https://user-images.githubusercontent.com/76645095/162124599-f9d701d6-e523-49c4-a6ce-193dc38f1026.png)'
 
 ## ✅ Latest Blog Post
 
-[2022/12/03 - 12월 첫째주 일기](http://blog.naver.com/ds4ouj/222945171475) <br/>
-[2022/12/01 - 카카오모빌리티 2023 신입공채 1차 코딩테스트 불합격](http://blog.naver.com/ds4ouj/222943028667) <br/>
-[2022/11/27 - 11월의 마지막 - 조정현은 죽었다.](http://blog.naver.com/ds4ouj/222939326689) <br/>
-[2022/11/26 - 카카오모빌리티 2023 신입/경력 개발자 공채 1차 코딩테스트 후기](http://blog.naver.com/ds4ouj/222938694200) <br/>
-[2022/11/24 - 카카오 2023 신입 공채 2차 인터뷰 불합격](http://blog.naver.com/ds4ouj/222937177361) <br/>
-[2022/11/24 - 넥토리얼 인터뷰 불합격 후기](http://blog.naver.com/ds4ouj/222937009855) <br/>
+[2022/12/06 - [Programmers] Level 3 : 최고의 집합](https://jojaeng2.tistory.com/28) <br/>
+[2022/12/05 - [Network] 인터넷 네트워크](https://jojaeng2.tistory.com/27) <br/>
+[2022/12/04 - [Kotlin] LeetCode 1561 : Maximum Number of Coins You Can Get](https://jojaeng2.tistory.com/26) <br/>
+[2022/12/03 - [Kotlin] LeetCode 2079 : Watering Plants](https://jojaeng2.tistory.com/25) <br/>
+[2022/11/30 - [Kotlin] LeetCode 2130 : maximum-twin-sum-of-a-linked-list](https://jojaeng2.tistory.com/24) <br/>
+[2022/11/28 - [Kotlin] LeetCode 1302 : Deepest Leaves Sum](https://jojaeng2.tistory.com/23) <br/>
