@@ -4,9 +4,9 @@ markdown_text += ![image](https://user-images.githubusercontent.com/76645095/162
 
 ## ✅ Latest Blog Post
 
+[2023/01/08 - [BOJ] 25552번 : 잔디 예측하기 Java 풀이](https://jojaeng2.tistory.com/44) <br/>
+[2023/01/08 - [BOJ] 16166번 : 서울의 지하철 Java 풀이](https://jojaeng2.tistory.com/43) <br/>
 [2023/01/07 - JaCoCo를 사용해 Code Coverage 관리하기](https://jojaeng2.tistory.com/42) <br/>
 [2023/01/07 - [Redis] Redis Sentinel 구성하기](https://jojaeng2.tistory.com/41) <br/>
 [2023/01/07 - [Redis] Redis Sentinel vs Cluster](https://jojaeng2.tistory.com/40) <br/>
 [2023/01/06 - checkstyle로 코드 컨벤션 관리하기](https://jojaeng2.tistory.com/39) <br/>
-[2022/12/12 - [Programmers] Level 2 : 점프와 순간 이동](https://jojaeng2.tistory.com/38) <br/>
-[2022/12/12 - [Programmers] Level 2 : 영어 끝말잇기](https://jojaeng2.tistory.com/37) <br/>
