@@ -1,12 +1,10 @@
-
-
-markdown_text += ![image](https://user-images.githubusercontent.com/76645095/162124599-f9d701d6-e523-49c4-a6ce-193dc38f1026.png)
+![image](https://user-images.githubusercontent.com/76645095/162124599-f9d701d6-e523-49c4-a6ce-193dc38f1026.png)
 
 ## ✅ Latest Blog Post
 
-[2023/08/15 - [Kubernetes] Ingress](https://jojaeng2.tistory.com/102) <br/>
-[2023/07/04 - [Atcoder] ABC308 :: F - Vouchers](https://jojaeng2.tistory.com/100) <br/>
-[2023/07/04 - [AtCoder] ABC308](https://jojaeng2.tistory.com/99) <br/>
-[2023/06/24 - [AtCoder] ABC307](https://jojaeng2.tistory.com/98) <br/>
-[2023/06/19 - [Atcoder] ABC306 :: D - Poisonous Full-Course](https://jojaeng2.tistory.com/97) <br/>
-[2023/06/19 - [Atcoder] ABC306 :: C - Centers](https://jojaeng2.tistory.com/96) <br/>
+[2023/09/23 - [Kafka] Kafka의 핵심 개념](http://blog.naver.com/ds4ouj/223219540254) <br/>
+[2023/09/22 - [Kafka] Kafka의 기본개념](http://blog.naver.com/ds4ouj/223218796217) <br/>
+[2023/09/20 - [ELK] 1. Logback 라이브러리 도입하기](http://blog.naver.com/ds4ouj/223217224369) <br/>
+[2023/09/17 - [MongoDB] Time To Live Index](http://blog.naver.com/ds4ouj/223213841168) <br/>
+[2023/09/16 - [Atcoder] AtCoder Beginner Contest 320](http://blog.naver.com/ds4ouj/223213414202) <br/>
+[2023/08/29 - Riding](http://blog.naver.com/ds4ouj/223196967284) <br/>
