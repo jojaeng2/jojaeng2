@@ -1,4 +1,4 @@
-![image](./image/231205.png){: width="100%" height="40%"}
+![image](./image/231205.png)
 
 ## ✅ Latest Blog Post
 
